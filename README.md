@@ -1,4 +1,4 @@
-# elpaso-widget-js (OEI)
+# elpasolite-widget-js (OEI)
 
 ## Updates
 March 3, 2015
