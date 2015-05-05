@@ -2,7 +2,7 @@
 
 ## Updates
 March 3, 2015
-Updated the Bing Maps imagery metadata module to handle XSS
+Updated the Bing Maps imagery metadata module to handle XSS  
 May 5, 2015
 Widget tested and works in Web AppBuilder version 1.1
 
